@@ -7,7 +7,7 @@
 ### Run the Simulations with
   'python run_prewetting_sim.py [c_tether] [J_bulk] [chem_potential_1] [chem_potential_2] [membrane_composition] [Tmembrane/Tc] [Idx] ' 
   
-  Command line parmaaters are
+  Command line parameters are
   
     ctether - tether concentration
     
